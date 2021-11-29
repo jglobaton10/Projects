@@ -57,7 +57,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:1000px;
+  
+  max-width:1000px;
+  width:860px;
   margin:0 auto;
 }
 
@@ -173,7 +175,7 @@ strong {
 }
 
 section {
-  width:800px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }

@@ -1,4 +1,4 @@
-title: <h1 style="color:20D1F7; font-size:20px;" align="center"> Juan Guillermo Lobaton Galindo</h1>
+title: <h1 style="color:#20D1F7; font-size:23px;" align="center"> Juan Guillermo Lobaton Galindo</h1>
 
 logo: "/images/picture_me.jpg?raw=true"
 
@@ -10,9 +10,9 @@ description:
  
   </p>
   
-  <p align="center">
+  <p align="center"><strong>
   I am actively looking for a job opportunity and pursuing a Master's degree in Data Analytics at University of the Andes (Part-time).
-  </p>
+  </strong></p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-145578661-1 # Google Analytics tracking ID

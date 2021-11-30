@@ -18,3 +18,27 @@ The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLege
 
 #### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
 ---
+
+## [League of legends champion classifier](https://jglobaton10.github.io/LeagueOfLegendsChampionClassifier/) 🔗
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier)
+
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTg2NmRjYzEtYWM0NS00NzQzLTliMGMtNDI1NTY1ZDc1ZjBmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" style="color:#1B39ED; font-size:15px;" align="center"> First dashboard: Analysis of Number of flights vs Empty seats </a> 🔗.
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzM5MzIzYzMtY2E1Yy00MDg3LWI3ODYtMzQ3NDVlNGE5OGRmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" style="color:#1B39ED; font-size:15px;" align="center"> Second dashboard: Analysis of PBI vs Number of flights </a> 🔗.
+
+
+
+
+This is and end to end image classification machine learning project using convolutional neural networks (CNN). It is based on my favorite video game **League of Legends**.
+
+<p>
+<img src="images/infraestructra visible2.gif" width="45%"/>
+&nbsp; &nbsp;  &nbsp;  &nbsp;
+<img src="images/infraestructura visible.gif" width="45%"/>
+</p>
+
+The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end).
+
+#### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
+---

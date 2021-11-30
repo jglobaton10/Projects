@@ -8,11 +8,13 @@
 
 This is and end to end image classification machine learning project using convolutional neural networks (CNN). It is based on my favorite video game **League of Legends**.
 
-#### Technologies used: Python (Tensorflow, Keras, opem), 
 <p>
 <img src="images/lol_gif_part_1_Trim-_2_.gif" width="45%"/>
 &nbsp; &nbsp;  &nbsp;  &nbsp;
 <img src="images/lol_gif_part_1_Trim.gif" width="45%"/>
 </p>
 
+The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end)
+
+#### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
 ---

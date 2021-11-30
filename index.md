@@ -14,7 +14,7 @@ This is and end to end image classification machine learning project using convo
 <img src="images/lol_gif_part_1_Trim.gif" width="45%"/>
 </p>
 
-The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end)
+The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end).
 
 #### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
 ---

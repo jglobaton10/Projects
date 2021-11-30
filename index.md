@@ -19,15 +19,16 @@ The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLege
 #### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
 ---
 
-## [League of legends champion classifier](https://jglobaton10.github.io/LeagueOfLegendsChampionClassifier/) 🔗
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier)
+## [Visible Infrastructure](https://jglobaton10.github.io/Visibleinfrastructure/) 🔗
+[![View on GitHub](https://img.shields.io/badge/PowerBI-Number_of_passengers_vs_empty_seats-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
+[![View on GitHub](https://img.shields.io/badge/PowerBI-GDP_vs_Number_of_flights-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
+
+
 
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTg2NmRjYzEtYWM0NS00NzQzLTliMGMtNDI1NTY1ZDc1ZjBmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" style="color:#1B39ED; font-size:15px;" align="center"> First dashboard: Analysis of Number of flights vs Empty seats </a> 🔗.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNzM5MzIzYzMtY2E1Yy00MDg3LWI3ODYtMzQ3NDVlNGE5OGRmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" style="color:#1B39ED; font-size:15px;" align="center"> Second dashboard: Analysis of PBI vs Number of flights </a> 🔗.
-
-
 
 
 This is and end to end image classification machine learning project using convolutional neural networks (CNN). It is based on my favorite video game **League of Legends**.

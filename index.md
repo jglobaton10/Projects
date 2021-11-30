@@ -20,18 +20,12 @@ The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLege
 ---
 
 ## [Visible Infrastructure](https://jglobaton10.github.io/Visibleinfrastructure/) 🔗
-[![View on GitHub](https://img.shields.io/badge/PowerBI-Number_of_passengers_vs_empty_seats-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
-[![View on GitHub](https://img.shields.io/badge/PowerBI-GDP_vs_Number_of_flights-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
+[![View on GitHub](https://img.shields.io/badge/View_on_PowerBI-N_of_passengers_vs_empty_seats-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
+[![View on GitHub](https://img.shields.io/badge/View_on_PowerBI-GDP_vs_N_of_flights-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
 
+This was part of a consulting project for a dependency of University of the Andes. They wanted had a list of anlytical requirements that they wanted us to solve using OLAP anlysis or dashboards. 
 
-
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTg2NmRjYzEtYWM0NS00NzQzLTliMGMtNDI1NTY1ZDc1ZjBmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" style="color:#1B39ED; font-size:15px;" align="center"> First dashboard: Analysis of Number of flights vs Empty seats </a> 🔗.
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNzM5MzIzYzMtY2E1Yy00MDg3LWI3ODYtMzQ3NDVlNGE5OGRmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" style="color:#1B39ED; font-size:15px;" align="center"> Second dashboard: Analysis of PBI vs Number of flights </a> 🔗.
-
-
-This is and end to end image classification machine learning project using convolutional neural networks (CNN). It is based on my favorite video game **League of Legends**.
+The data model for this project was built using an ETL with pyspark and SQL server. 
 
 <p>
 <img src="images/infraestructra visible2.gif" width="45%"/>
@@ -39,7 +33,6 @@ This is and end to end image classification machine learning project using convo
 <img src="images/infraestructura visible.gif" width="45%"/>
 </p>
 
-The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end).
 
-#### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
+#### Technologies used: Python (pandas, pyspark, numpy), SQL, SQL server. 
 ---

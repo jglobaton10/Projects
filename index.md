@@ -43,14 +43,15 @@ The data model for this project was built using an ETL with pyspark and SQL serv
 
 ---
 
-## [Visible Infrastructure](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
+## [Legends of Runaterra Anlytics](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
 [![View on GitHub](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiZjI4ZjUwNGEtMjVjZS00NzY2LTg4YTktNWI1MTdkNzFjNTk1IiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection)
 
 
 <p align="justify">
-This was part of a consulting project for a initiative of University of the Andes. They wanted had a list of anlytical requirements that they wanted us to solve using OLAP anlysis or dashboards. 
-
-The data model for this project was built using an ETL with pyspark and SQL server. 
+The objective of this project was to produce analytics about each card set of the popular collectible card game Legends of Runaterra. Each of the pages of the report represent a region of the game. 
+  
+This is an ongoing project. 
 </p>
   
 <p>

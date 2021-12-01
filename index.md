@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## [League of legends champion classifier](https://jglobaton10.github.io/LeagueOfLegendsChampionClassifier/) 🔗
+## [League of legends champion classifier](https://jglobaton10.github.io/LeagueOfLegendsChampionClassifier/)
 [![View on GitHub](https://img.shields.io/badge/AWS-View_Web_App-orange?logo=Amazon)](http://ec2-18-191-142-227.us-east-2.compute.amazonaws.com/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier)
 
@@ -20,7 +20,7 @@ The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLege
 #### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
 ---
 
-## [Visible Infrastructure](https://jglobaton10.github.io/Visibleinfrastructure/) 🔗
+## [Visible Infrastructure](https://jglobaton10.github.io/Visibleinfrastructure/)
 [![View on GitHub](https://img.shields.io/badge/PowerBI-N_passengers_vs_empty_seats-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
 [![View on GitHub](https://img.shields.io/badge/PowerBI-GDP_vs_N_of_flights-yellow?logo=PowerBI)](https://github.com/jglobaton10/Visibleinfrastructure)
 

@@ -17,7 +17,7 @@ This is and end to end image classification machine learning project using convo
 
 The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end).
 
-##### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
+#### Technologies used: Python (Tensorflow, Keras, opencv, pandas), AWS. 
 ---
 
 ## [Visible Infrastructure](https://jglobaton10.github.io/Visibleinfrastructure/) 🔗
@@ -35,5 +35,5 @@ The data model for this project was built using an ETL with pyspark and SQL serv
 </p>
 
 
-##### Technologies used: PowerBI, Python (pandas, pyspark, numpy, seaborn), SQL, SQL server. 
+#### Technologies used: PowerBI, Python (pandas, pyspark, numpy, seaborn), SQL, SQL server. 
 ---

@@ -41,8 +41,6 @@ The data model for this project was built using an ETL with pyspark and SQL serv
 #### Technologies used: PowerBI, Python (pandas, pyspark, numpy, seaborn), SQL, SQL server. 
 ---
 
----
-
 ## [Legends of Runaterra Anlytics](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
 [![View on GitHub](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiZjI4ZjUwNGEtMjVjZS00NzY2LTg4YTktNWI1MTdkNzFjNTk1IiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection)
@@ -64,4 +62,18 @@ This is an ongoing project.
 #### Technologies used: PowerBI, Python (pandas, pyspark, numpy, seaborn), SQL, SQL server. 
 ---
 
+## Steam top 100 games
+
+[![View on GitHub](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiZDJmNDEwNjEtYzBjNS00YTgwLThlYTgtYWQyMTQ0NTc3M2FmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection)
+
+
+<p align="justify">
+This project was one of my first approaches to PowerBI. Here, I analysed data from the 100 most popular games on steam. In particular,  The number of current players versus the number in their lunching day, the perception about the game and their distribution based on game genre.  
+</p>
+  
+
+<img src="images/steam top100 1.gif" width="100%"/>
+
+#### Technologies used: PowerBI, Python (pandas, pyspark, numpy, seaborn, matplotlib).
+---
 

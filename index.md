@@ -41,7 +41,7 @@ The data model for this project was built using an ETL with pyspark and SQL serv
 #### Technologies used: PowerBI, Python (pandas, pyspark, numpy, seaborn), SQL, SQL server. 
 ---
 
-## [Legends of Runaterra Anlytics](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
+## [Legends of Runaterra Anlytics](https://jglobaton10.github.io/legendsOfRunaterraAnlytics/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jglobaton10/legendsOfRunaterraAnlytics)
 [![View on GitHub](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiZjI4ZjUwNGEtMjVjZS00NzY2LTg4YTktNWI1MTdkNzFjNTk1IiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection)
 

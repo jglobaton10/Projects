@@ -26,7 +26,7 @@ The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLege
 [![View on GitHub](https://img.shields.io/badge/PowerBI-GDP_vs_N_of_flights-yellow?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiNzM5MzIzYzMtY2E1Yy00MDg3LWI3ODYtMzQ3NDVlNGE5OGRmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection)
 
 <p align="justify">
-This was part of a consulting project for a initiative of University of the Andes. They wanted had a list of anlytical requirements that they wanted us to solve using OLAP anlysis or dashboards. 
+This was part of a consulting project for a initiative of University of the Andes. They had a list of anlytical requirements that they wanted us to solve using OLAP anlysis or dashboards. 
 
 The data model for this project was built using an ETL with pyspark and SQL server. 
 </p>
